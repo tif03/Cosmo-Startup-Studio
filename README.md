@@ -2,7 +2,8 @@
 *AI-Powered Ad Campaign Simulation Engine*
 
 Built by Sneha Rao Ganta, Marshall Qian, Ananya Sammidi, and Tiffany Yu
-Try it: cosmo-sim.lovable.app
+
+Try it: [cosmo-sim.lovable.app](cosmo-sim.lovable.app)
 
 Cosmo helps marketers predict campaign performance before launching, eliminating the costly trial-and-error that wastes 50%+ of ad budgets in the $832B global ad market.
 
